@@ -109,7 +109,7 @@ In parallel, the system continuously learns from anonymized usage patterns to:
                        └─────────────┬──────────────┘
                                      │
    ┌────────────┐    ┌───────────────▼────────────────┐    ┌───────────────┐
-   │   Patient  │ ──▶│      Intelligent Booking       │──▶ │   Doctor /    │
+   │   Patient  │ ──│      Intelligent Booking       │── │   Doctor /    │
    │  (Kiosk)   │    │           Module               │    │  Specialist   │
    └────────────┘    └───────────────┬────────────────┘    └───────────────┘
                                      │
